@@ -1,4 +1,4 @@
-package com.honeywell.encryption;
+package com.honeywell.encryption.utils;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;

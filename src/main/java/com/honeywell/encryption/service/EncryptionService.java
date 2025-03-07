@@ -1,6 +1,6 @@
-package com.honeywell.encryption;
+package com.honeywell.encryption.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import com.honeywell.encryption.utils.AESEncryption;
 import org.springframework.stereotype.Service;
 
 @Service
